@@ -1,7 +1,7 @@
 ---
 ---
 
-$accent-color: #b00; // link color
+$accent-color: #40739e; // link color
 $font-stack: system-ui, Helvetica, Arial, sans-serif;
 $heading-font-stack: system-ui, Helvetica, Arial, sans-serif; // use this to set a different font for your headings if you want
 $code-font-stack: Inconsolata, monospace; // fonts for inline code and code blocks
@@ -37,7 +37,10 @@ nav li {
 }
 
 nav a {
-  margin-right: 1rem;
+  margin-right: 2rem;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.5rem;
 }
 
 // typography: heading
@@ -49,12 +52,13 @@ h3 {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   margin-top: 1rem;
 }
 
 .global-title {
   font-size: 3rem;
+  margin-bottom: 2rem;
   color: #222;
 }
 
@@ -94,7 +98,7 @@ a {
 
 a:hover,
 a:active {
-  color: lighten($accent-color, 10%);
+  color: lighten($accent-color, 6%);
 }
 
 // images
@@ -114,9 +118,10 @@ img {
   display: flex;
 }
 
-.greeting-container h3 {
+.greeting-container h1 {
   align-self: center;
   margin: 0;
+  font-size: 1.5rem;
 }
 
 // blog page
@@ -136,6 +141,10 @@ img {
 .posts-list-item .title {
   margin: 0 0.25rem 0 0;
   display: inline-block;
+}
+
+.posts-list-title a {
+  text-decoration: none;
 }
 
 .timestamp {
@@ -158,4 +167,8 @@ code {
   padding: 3px 5px;
   border-radius: 2px;
   font-family: $code-font-stack;
+}
+
+.blog-title {
+  margin-top: 1.5rem;
 }
