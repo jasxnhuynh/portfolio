@@ -1,29 +1,37 @@
 ---
 ---
 
-## 🤷 What I do
+## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I'm double majoring in data science and math-computer science. My research interests include probability, statistics, and computer vision.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm currently a data science intern at [Qualcomm Institute](https://qi.ucsd.edu/) where I'm working on various projects applying machine learning to medicine, advised by [Dr. Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html). I have also served as a teaching assistant for multiple courses within the [Halicioglu Data Science Institute](https://datascience.ucsd.edu/), mostly under [Professor Marina Langlois](https://datascience.ucsd.edu/people/marina-langlois/). 
 
-## 🦕 What I've done before
+In my free time I chase my hoop dreams, conduct freelance probability & statistics research (sports betting), watch historical documentaries, and try out different recipes.
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
+## Research
 
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
+<u>Applications of Convolutional Neural Networks in Chest X-Ray Analyses for the Detection of COVID-19</u>. Patrick Ting, Anish Kasam, Kevin Lan. *Annals of Biomedical Science and Engineering*.\\
+[paper](https://www.biomedscijournal.com/articles/abse-aid1015.php) | [code](https://github.com/anishkasam/cxr-net)
 
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
+## Projects
 
-## 👋🏻 Say hi
+__Probability & Statistics for ML__: A visual explanation of various parametric & nonparametric density estimation techniques.\\
+[website](https://anishkasam.github.io/probability-for-ml/) | [code](https://github.com/anishkasam/probability-for-ml)
 
-Wanna chat? Feel free to reach out!
+__Spotify Stats Tracker__: A web app that recommends new songs and displays your most listened to artists, songs, & genres.\\
+[website](https://spotify-stats-tracker.netlify.app/) | [code](https://github.com/anishkasam/spotify-stats-tracker)
 
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
-- [Issues](https://github.com/katmh/point-theme/issues)
+__Fantasy Football__: An exploration into which players are the most matchup dependent in fantasy football.\\
+[article](https://towardsdatascience.com/fantasy-football-data-analysis-with-python-b3c017d0d3b5) | [code](https://github.com/anishkasam/fantasy-football)
 
-## 📠 Fun facts
+## Teaching
 
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+__DSC 20: Programming and Data Structures for Data Science__\\
+Fall 2023 | Winter 2024 | Spring 2024 | Summer 2024 | Fall 2024 | Winter 2025
+
+__DSC 30: Data Structures and Algorithms for Data Science__\\
+Summer 2024
+
+__DSC 80: The Practice and Application of Data Science__\\
+Fall 2024
