@@ -5,10 +5,10 @@
 #
 
 # no trailing slash
-url: https://anishkasam.github.io/portfolio
+url: https://jasxnhuynh.github.io/portfolio/
 
 # for header and meta tags
-title: Anish Kasam
+title: Jason Huynh
 description: website showcasing my work
 
 # set external to true if linking outside your website
@@ -22,9 +22,9 @@ nav-links:
     external: false
 
 # for the homepage image + big text next to it
-greeting_image: assets/me.png
+greeting_image: assets/me.JPG
 # 100-200 characters recommended
-greeting_text: Hi, I'm Anish! I'm a junior @ UC San Diego and an incoming Data & ML Engineer Intern @ Nike.
+greeting_text: Hi, I'm Jason!
 
 # show blog post excerpts on blog page
 show_excerpts: false

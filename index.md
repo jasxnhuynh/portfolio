@@ -3,35 +3,30 @@
 
 ## About
 
-I'm double majoring in data science and math-computer science. My research interests include probability, statistics, and computer vision.
+I'm a third-year at UC San Diego majoring in Data Science and minoring in Hebrew Language and Literature.
 
-I'm currently a data science intern at [Qualcomm Institute](https://qi.ucsd.edu/) where I'm working on various projects applying machine learning to medicine, advised by [Dr. Ganz Chockalingam](https://pdel.ucsd.edu/people/research-affiliates/ganz-chockalingam.html). I have also served as a teaching assistant for multiple courses within the [Halicioglu Data Science Institute](https://datascience.ucsd.edu/), mostly under [Professor Marina Langlois](https://datascience.ucsd.edu/people/marina-langlois/). 
+I'm currently a data science intern at the [San Diego County Sheriff's Department](https://www.sdsheriff.gov/) where I'm working on super cool projects involving real-world data. 
 
-In my free time I chase my hoop dreams, conduct freelance probability & statistics research (sports betting), watch historical documentaries, and try out different recipes.
+I'm also an Instructional Assistant for [DSC 10](https://dsc10.com/), the largest Data Science course offered at UC San Diego, where I help introduce students to the exciting field of Data Science!
+
+In my free time I enjoy working out, trying new food, and playing music.
 
 ## Research
 
-<u>Applications of Convolutional Neural Networks in Chest X-Ray Analyses for the Detection of COVID-19</u>. Patrick Ting, Anish Kasam, Kevin Lan. *Annals of Biomedical Science and Engineering*.\\
-[paper](https://www.biomedscijournal.com/articles/abse-aid1015.php) | [code](https://github.com/anishkasam/cxr-net)
+[Characterizing Formation of Evaporation Ducts formed by the Capping Inversion of the Marine Atmospheric Boundary Layer](https://datascience.ucsd.edu/32-undergraduate-scholarships/)
 
 ## Projects
 
-__Probability & Statistics for ML__: A visual explanation of various parametric & nonparametric density estimation techniques.\\
-[website](https://anishkasam.github.io/probability-for-ml/) | [code](https://github.com/anishkasam/probability-for-ml)
+__[Like Father Like Son](https://jhyunbinyi.github.io/antmj/)__: A statistical narrative comparing Anthony Edwards and Michael Jordan, seeking to answer the question: "Like Father Like Son?".\\
+[code](https://github.com/jhyunbinyi/antmj)
 
-__Spotify Stats Tracker__: A web app that recommends new songs and displays your most listened to artists, songs, & genres.\\
-[website](https://spotify-stats-tracker.netlify.app/) | [code](https://github.com/anishkasam/spotify-stats-tracker)
-
-__Fantasy Football__: An exploration into which players are the most matchup dependent in fantasy football.\\
-[article](https://towardsdatascience.com/fantasy-football-data-analysis-with-python-b3c017d0d3b5) | [code](https://github.com/anishkasam/fantasy-football)
+__[The Winning Edge](https://jasxnhuynh.github.io/LoL-lane-analysis/)__: A comprehensive analysis of roles in League of Legends aiming to answer the question: "Which role consistently carries their team to victory?"\\
+[code](https://github.com/jasxnhuynh/LoL-lane-analysis)
 
 ## Teaching
 
-__DSC 20: Programming and Data Structures for Data Science__\\
-Fall 2023 | Winter 2024 | Spring 2024 | Summer 2024 | Fall 2024 | Winter 2025
+__DSC 10: Principles of Data Science__\\
+Spring 2024 | Summer 2024 | Fall 2024 | Spring 2025
 
-__DSC 30: Data Structures and Algorithms for Data Science__\\
+__DSC 80: Practice and Application of Data Science__\\
 Summer 2024
-
-__DSC 80: The Practice and Application of Data Science__\\
-Fall 2024
