@@ -5,7 +5,7 @@
 #
 
 # no trailing slash
-url: https://jasxnhuynh.github.io/portfolio/
+url: https://jasxnhuynh.github.io/portfolio
 
 # for header and meta tags
 title: Jason Huynh
@@ -17,14 +17,16 @@ nav-links:
   - name: Home
     url: /
     external: false
-  - name: Blog
-    url: /blog
-    external: false
+  # - name: Blog
+  #   url: /blog
+  #   external: false
 
 # for the homepage image + big text next to it
 greeting_image: assets/me.JPG
 # 100-200 characters recommended
-greeting_text: Hi, I'm Jason!
+greeting_text: |
+  Hi, I'm Jason!
+  [LinkedIn](https://linkedin.com/in/jasxnhuynh) | [GitHub](https://github.com/jasxnhuynh) | [Email](mailto:jasonhuynh5856@gmail.com)
 
 # show blog post excerpts on blog page
 show_excerpts: false

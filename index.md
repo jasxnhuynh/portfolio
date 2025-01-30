@@ -13,11 +13,11 @@ In my free time I enjoy working out, trying new food, and playing music.
 
 ## Research
 
-[Characterizing Formation of Evaporation Ducts formed by the Capping Inversion of the Marine Atmospheric Boundary Layer](https://datascience.ucsd.edu/32-undergraduate-scholarships/)
+__[Characterizing Formation of Evaporation Ducts formed by the Capping Inversion of the Marine Atmospheric Boundary Layer](https://datascience.ucsd.edu/32-undergraduate-scholarships/)__: 1/32 students awarded with the Halıcıoğlu Data Science Institute Undergraduate Research Scholarship.
 
 ## Projects
 
-__[Like Father Like Son](https://jhyunbinyi.github.io/antmj/)__: A statistical narrative comparing Anthony Edwards and Michael Jordan, seeking to answer the question: "Like Father Like Son?".\\
+__[Like Father Like Son](https://jhyunbinyi.github.io/antmj/)__: A statistical narrative comparing Anthony Edwards and Michael Jordan, seeking to answer the question: "Like Father Like Son?"\\
 [code](https://github.com/jhyunbinyi/antmj)
 
 __[The Winning Edge](https://jasxnhuynh.github.io/LoL-lane-analysis/)__: A comprehensive analysis of roles in League of Legends aiming to answer the question: "Which role consistently carries their team to victory?"\\
