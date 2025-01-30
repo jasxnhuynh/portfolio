@@ -25,7 +25,7 @@ nav-links:
 greeting_image: assets/me.JPG
 # 100-200 characters recommended
 greeting_text: |
-  <span style="font-size: 18px;">Hi, I'm Jason!</span>\\
+  <span style="font-size: 28px; display: block; margin-top: -10px;">Hi, I'm Jason!</span>\\
   <span style="font-size: 16px;">[LinkedIn](https://linkedin.com/in/jasxnhuynh) | [GitHub](https://github.com/jasxnhuynh) | [Email](mailto:jasonhuynh5856@gmail.com)</span>
 
 # show blog post excerpts on blog page
