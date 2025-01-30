@@ -24,7 +24,8 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: assets/me.JPG
 # 100-200 characters recommended
-greeting_text: "Hi, I'm Jason! [LinkedIn](https://linkedin.com/in/jasxnhuynh) | [GitHub](https://github.com/jasxnhuynh) | [Email](mailto:jasonhuynh5856@gmail.com)"
+greeting_text: "Hi, I'm Jason!\\
+  [LinkedIn](https://linkedin.com/in/jasxnhuynh) | [GitHub](https://github.com/jasxnhuynh) | [Email](mailto:jasonhuynh5856@gmail.com)"
 
 # show blog post excerpts on blog page
 show_excerpts: false
