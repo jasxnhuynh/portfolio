@@ -7,7 +7,7 @@ I'm a third-year at UC San Diego majoring in Data Science and minoring in Hebrew
 
 I'm currently a data science intern at the [San Diego County Sheriff's Department](https://www.sdsheriff.gov/) where I'm working on super cool projects involving real-world data. 
 
-I'm also an Instructional Assistant for [DSC 10](https://dsc10.com/), the largest Data Science course offered at UC San Diego, where I help introduce students to the exciting field of Data Science!
+I'm also an Instructional Assistant for [DSC 10](https://dsc10.com/), the largest Data Science course at UC San Diego, where I help introduce students to the exciting field of Data Science!
 
 In my free time I enjoy working out, trying new food, and playing music.
 
@@ -17,10 +17,10 @@ __[Characterizing Formation of Evaporation Ducts formed by the Capping Inversion
 
 ## Projects
 
-__[Like Father Like Son](https://jhyunbinyi.github.io/antmj/)__: A statistical narrative comparing Anthony Edwards and Michael Jordan, seeking to answer the question: "Like Father Like Son?"\\
+__[Like Father Like Son](https://jhyunbinyi.github.io/antmj/)__: A statistical narrative comparing Anthony Edwards and Michael Jordan.\\
 [code](https://github.com/jhyunbinyi/antmj)
 
-__[The Winning Edge](https://jasxnhuynh.github.io/LoL-lane-analysis/)__: A comprehensive analysis of roles in League of Legends aiming to answer the question: "Which role consistently carries their team to victory?"\\
+__[The Winning Edge](https://jasxnhuynh.github.io/LoL-lane-analysis/)__: A comprehensive analysis of roles in League of Legends to determine which role consistently carries their team to victory.\\
 [code](https://github.com/jasxnhuynh/LoL-lane-analysis)
 
 ## Teaching
