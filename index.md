@@ -26,7 +26,7 @@ __[The Winning Edge](https://jasxnhuynh.github.io/LoL-lane-analysis/)__: A compr
 ## Teaching
 
 __DSC 10: Principles of Data Science__\\
-Spring 2024 | Summer 2024 | Fall 2024 | Spring 2025
+Spring 2024 | Summer 2024 | Fall 2024 | Winter 2025
 
 __DSC 80: Practice and Application of Data Science__\\
 Summer 2024
