@@ -11,9 +11,13 @@ I'm also an Instructional Assistant for [DSC 10](https://dsc10.com/), the larges
 
 In my free time I enjoy working out, trying new food, and playing music.
 
-## Research
+## Teaching
 
-__[Characterizing Formation of Evaporation Ducts formed by the Capping Inversion of the Marine Atmospheric Boundary Layer](https://datascience.ucsd.edu/32-undergraduate-scholarships/)__: 1/32 students awarded with the Halıcıoğlu Data Science Institute Undergraduate Research Scholarship.
+__Instructional Assistant, DSC 10: Principles of Data Science__\\
+Spring 2024 | Summer 2024 | Fall 2024 | Winter 2025
+
+__Instructional Assistant, DSC 80: Practice and Application of Data Science__\\
+Summer 2024
 
 ## Projects
 
@@ -23,10 +27,6 @@ __[Like Father Like Son](https://jhyunbinyi.github.io/antmj/)__: A statistical n
 __[The Winning Edge](https://jasxnhuynh.github.io/LoL-lane-analysis/)__: A comprehensive analysis of roles in League of Legends to determine which role consistently carries their team to victory.\\
 [code](https://github.com/jasxnhuynh/LoL-lane-analysis)
 
-## Teaching
+## Research
 
-__Instructional Assistant, DSC 10: Principles of Data Science__\\
-Spring 2024 | Summer 2024 | Fall 2024 | Winter 2025
-
-__Instructional Assistant, DSC 80: Practice and Application of Data Science__\\
-Summer 2024
+__[Characterizing Formation of Evaporation Ducts formed by the Capping Inversion of the Marine Atmospheric Boundary Layer](https://datascience.ucsd.edu/32-undergraduate-scholarships/)__: 1/32 students awarded with the Halıcıoğlu Data Science Institute Undergraduate Research Scholarship.
