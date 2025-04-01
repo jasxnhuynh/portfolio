@@ -5,7 +5,7 @@
 
 I'm a third-year Data Science major at UC San Diego with a minor in Hebrew Language and Literature.
 
-I'm currently a Data Science Intern at the [San Diego County Sheriff's Department](https://www.sdsheriff.gov/) where I build ETL/ELT pipelines to migrate on-premises data to the cloud, develop Power BI reports, and conduct ad hoc data analyses.
+I'm currently a Data Science Intern at the [San Diego County Sheriff's Department](https://www.sdsheriff.gov/) where I'm building ETL/ELT pipelines, developing Power BI reports, and conducting ad hoc analyses.
 
 I'm also an Instructional Assistant for the [largest Data Science course](https://dsc10.com/) at UC San Diego, where I introduce students to the exciting world of Data Science!
 
