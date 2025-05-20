@@ -5,9 +5,9 @@
 
 I'm a third-year Data Science major at UC San Diego with a minor in Hebrew Language and Literature.
 
-I'm currently a Data Science Intern at the [San Diego County Sheriff's Department](https://www.sdsheriff.gov/) where I build ETL/ELT pipelines, develop Power BI reports, and conduct ad hoc data analyses.
+I'm currently a Data Science Intern at the [San Diego County Sheriff's Office](https://www.sdsheriff.gov/) where I'm migrating large amounts of on-premises data to Azure Government Cloud and developing Power BI reports.
 
-I'm also an Instructional Assistant for the [largest Data Science course](https://dsc10.com/) at UC San Diego, where I introduce students to the exciting world of Data Science!
+I'm also an Instructional Assistant for the [largest Data Science course](https://dsc10.com/) at UC San Diego where I introduce students to the exciting world of Data Science!
 
 In my free time I enjoy working out, trying new restaurants, and bouldering.
 
@@ -29,4 +29,4 @@ __[The Winning Edge](https://jasxnhuynh.github.io/LoL-lane-analysis/)__: A compr
 
 ## Research
 
-__[Characterizing Formation of Evaporation Ducts formed by the Capping Inversion of the Marine Atmospheric Boundary Layer](https://datascience.ucsd.edu/32-undergraduate-scholarships/)__: 1/32 students awarded with the Halıcıoğlu Data Science Institute Undergraduate Research Scholarship.
+__[Characterizing Formation of Evaporation Ducts formed by the Capping Inversion of the Marine Atmospheric Boundary Layer](https://datascience.ucsd.edu/32-undergraduate-scholarships/)__: Advised by Peter Gerstoft
