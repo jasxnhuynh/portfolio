@@ -5,7 +5,7 @@
 
 I'm a third-year Data Science major at UC San Diego with a minor in Hebrew Language and Literature.
 
-Currently, I'm a Data Science Intern at the [San Diego County Sheriff's Office](https://www.sdsheriff.gov/), where I'm migrating our on-premises data to Azure Government Cloud and creating Power BI reports.
+I'm currently a Data Science Intern at the [San Diego County Sheriff's Office](https://www.sdsheriff.gov/), where I'm migrating our on-premises data to Azure Government Cloud and creating Power BI reports.
 
 I'm also an Instructional Assistant for the [largest Data Science course](https://dsc10.com/) at UC San Diego, where I help introduce students to the exciting world of Data Science!
 
