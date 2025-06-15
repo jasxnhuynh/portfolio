@@ -11,7 +11,7 @@ In the past, I was a Data Science Intern at the [San Diego County Sheriff's Offi
 
 I’ve also had the privilege of being an Instructional Assistant for [DSC 10](https://dsc10.com/), UC San Diego’s largest Data Science course, as well as [DSC 80](https://dsc80.com).
 
-In my free time I enjoy working out, bouldering, and exploring San Diego.
+In my free time I enjoy working out, bouldering, and exploring San Diego. Let's [connect](https://www.linkedin.com/in/jasxnhuynh/)!
 
 <!-- I'm currently a Data Science Intern at the [San Diego County Sheriff's Office](https://www.sdsheriff.gov/), where I'm migrating our on-premises data to Azure Government Cloud and creating Power BI reports.
 
