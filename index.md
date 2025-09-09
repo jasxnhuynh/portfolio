@@ -3,11 +3,11 @@
 
 ## About
 
-I'm a fourth-year Data Science major at UC San Diego, minoring in Hebrew Language and Literature.
+I’m a fourth-year Data Science major at UC San Diego, minoring in Hebrew Language and Literature.
 
-Currently, I'm a Data Engineer Intern at [Lockheed Martin Space](https://www.lockheedmartin.com/en-us/who-we-are/business-areas/space.html).
+Last summer, I worked as a Data Engineer Intern at Lockheed Martin Space, where I developed tools to streamline data migration and promotion workflows.
 
-Previously, I was a Data Science Intern at the [San Diego County Sheriff's Office](https://www.sdsheriff.gov/), where I migrated on-premises data to Azure Government Cloud and created pretty Power BI reports.
+Before that, I was a Data Science Intern at the San Diego County Sheriff’s Office, where I built pipelines to migrate data to Azure Government Cloud and created Power BI dashboards.
 
 I’ve also had the pleasure of being an Instructional Assistant for UC San Diego’s largest Data Science course, [DSC 10](https://dsc10.com/), as well as [DSC 80](https://dsc80.com).
 
