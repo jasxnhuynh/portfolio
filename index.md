@@ -5,13 +5,15 @@
 
 I’m a fourth-year Data Science major at UC San Diego, minoring in Hebrew Language and Literature.
 
+Currently, I am a Honors Intern at the [Federal Bureau of Investigation](https://www.fbi.gov/).
+
 Last summer, I worked as a Data Engineer Intern at [Lockheed Martin Space](https://www.lockheedmartin.com/en-us/who-we-are/business-areas/space.html), where I developed tools to streamline data migration and promotion workflows.
 
 Before that, I was a Data Engineer Intern at the [San Diego County Sheriff's Office](https://www.sdsheriff.gov/), where I built pipelines to migrate data to Azure Government Cloud and created Power BI dashboards.
 
 I’ve also had the pleasure of being an Instructional Assistant for UC San Diego’s largest Data Science course, [DSC 10](https://dsc10.com/), as well as [DSC 80](https://dsc80.com).
 
-In my free time, I enjoy working out, bouldering, and exploring San Diego. Let's [connect](https://www.linkedin.com/in/jasxnhuynh/)!
+In my free time, I enjoy working out, trying new foods, and exploring San Diego. Let's [connect](https://www.linkedin.com/in/jasxnhuynh/)!
 
 <!-- I'm currently a Data Science Intern at the [San Diego County Sheriff's Office](https://www.sdsheriff.gov/), where I'm migrating our on-premises data to Azure Government Cloud and creating Power BI reports.
 
