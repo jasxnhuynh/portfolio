@@ -5,7 +5,7 @@
 
 I’m a fourth-year Data Science major at UC San Diego, minoring in Hebrew Language and Literature.
 
-Currently, I am a Honors Intern at the [FBI](https://www.fbi.gov/).
+Currently, I'm an Honors Intern at the [FBI](https://www.fbi.gov/).
 
 Last summer, I worked as a Data Engineer Intern at [Lockheed Martin Space](https://www.lockheedmartin.com/en-us/who-we-are/business-areas/space.html), where I developed tools to streamline data migration and promotion workflows.
 
